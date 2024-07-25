@@ -6,9 +6,9 @@
  *
  *  Name: Emirhan Yildiirim Student ID: 155416225 Date: 7/1/2024
  *
- *  Vercel Web App URL: https://web322-apps.vercel.app/
+ *  Vercel Web App URL: https://web322-a3-gules.vercel.app/
  *
- *  GitHub Repository URL: https://github.com/emiryldm19/Web322-apps
+ *  GitHub Repository URL: https://github.com/emiryldm19/Web322-A3
  *
  ********************************************************************************/
 
